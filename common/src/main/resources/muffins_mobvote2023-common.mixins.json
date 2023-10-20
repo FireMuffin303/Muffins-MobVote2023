@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "package": "net.firemuffin303.mobvote2023.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "minVersion": "0.8",
+  "client": [
+    "WolfRendererMixin"
+  ],
+  "mixins": [
+    "BoatMixin",
+    "LivingEntityMixin",
+    "PlayerMixin",
+    "SpawnPlacementMixin",
+    "WolfMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

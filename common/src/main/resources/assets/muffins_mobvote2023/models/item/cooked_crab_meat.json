@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "muffins_mobvote2023:item/cooked_crab_meat"
+  }
+}

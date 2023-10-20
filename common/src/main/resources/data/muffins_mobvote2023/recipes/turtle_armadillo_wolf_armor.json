@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:scute"
+  },
+  "base": {
+    "item": "muffins_mobvote2023:armadillo_wolf_armor"
+  },
+  "result": {
+    "item": "muffins_mobvote2023:turtle_armadillo_wolf_armor"
+  },
+  "template": {
+    "item": "muffins_mobvote2023:turtle_upgrade_smithing_template"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "cookingtime": 100,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "muffins_mobvote2023:crab_meat"
+  },
+  "result": "muffins_mobvote2023:cooked_crab_meat"
+}
